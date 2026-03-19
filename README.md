@@ -12,15 +12,15 @@ DreamCamVR Downloader is a browser extension built for immersive video workflows
 
 ## Links
 
-- 🚀 Get it here: [DreamCamVR Downloader](https://serp.ly/dreamcam-vr-video-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/dreamcam-vr-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/dreamcam-vr-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/dreamcam-vr-downloader/issues)
+- ðŸš€ Get it here: [DreamCamVR Downloader](https://serp.ly/dreamcam-vr-video-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/dreamcam-vr-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/dreamcam-vr-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/dreamcam-vr-downloader/issues)
 
 ## Preview
 
-![DreamCamVR Downloader workflow preview](assets/workflow-preview.svg)
+![DreamCamVR Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
