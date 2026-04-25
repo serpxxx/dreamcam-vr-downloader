@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Dreamcam VR Downloader listing and downloader workflow.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "dreamcam-vr-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Dreamcam VR Downloader",
+  "version": "0.0"
+}
