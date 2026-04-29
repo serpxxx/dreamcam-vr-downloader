@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "dreamcam-vr-downloader",
   "readme": "../ACTOR.md",
-  "title": "DreamCamVR Downloader Browser Extension",
+  "title": "DreamCamVR Downloader",
   "version": "0.0"
 }
