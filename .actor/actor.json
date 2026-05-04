@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "dreamcam-vr-downloader",
   "readme": "../ACTOR.md",
-  "title": "DreamCamVR Downloader",
+  "title": "DreamCamVR Video Downloader | How to Download DreamCamVR Videos",
   "version": "0.0"
 }
