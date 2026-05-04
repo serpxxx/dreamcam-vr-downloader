@@ -1,7 +1,7 @@
 {
   "actorSpecification": 1,
   "buildTag": "latest",
-  "description": "Dreamcam VR Downloader listing and downloader workflow.",
+  "description": "DreamCamVR Downloader records accessible DreamCamVR streams and saves supported VR recordings as MP4 files for authorized offline viewing.",
   "input": "./INPUT_SCHEMA.json",
   "name": "dreamcam-vr-downloader",
   "readme": "../ACTOR.md",
