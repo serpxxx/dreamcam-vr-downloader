@@ -2,6 +2,12 @@
 
 > Record DreamCamVR live streams and download saved VR recordings as MP4 with playback-friendly metadata preserved where available.
 
+## Get it Here
+
+Get it here: https://serp.ly/dreamcam-vr-video-downloader
+
+![DreamCamVR Downloader](https://raw.githubusercontent.com/serpxxx/dreamcam-vr-downloader/main/assets/workflow-preview.webp)
+
 DreamCamVR Downloader is a browser extension built for immersive video workflows. It helps you keep DreamCamVR live sessions and saved recordings available offline, while preserving useful VR playback details when the source exposes them. The result is a simpler browser-based path from live room to local MP4 file.
 
 - Record DreamCamVR live sessions before they disappear
